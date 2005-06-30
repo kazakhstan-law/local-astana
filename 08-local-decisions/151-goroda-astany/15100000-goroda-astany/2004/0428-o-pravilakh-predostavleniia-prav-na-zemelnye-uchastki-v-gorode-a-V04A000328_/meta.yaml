@@ -37,10 +37,16 @@ versions:
   cause:
     code: '24876'
     key: V05A000402_
+- date: 2005-06-30
+  languages:
+  - kaz
+  cause:
+    code: '24876'
+    key: V05A000402_
 version_date:
-  rus: 2005-05-30
+  kaz: 2005-06-30
 source:
-  rus: https://zan.gov.kz/client/#!/doc/19666/rus/30.05.2005
+  kaz: https://zan.gov.kz/client/#!/doc/19666/kaz/30.06.2005
 caused_by:
   code: '24876'
   key: V05A000402_
