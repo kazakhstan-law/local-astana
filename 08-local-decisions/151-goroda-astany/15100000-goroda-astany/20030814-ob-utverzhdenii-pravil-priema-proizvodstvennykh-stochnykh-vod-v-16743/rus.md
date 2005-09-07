@@ -1,5 +1,5 @@
 ---
-version_id: AI16743_1
+version_id: AI16743_2
 act_code: '16743'
 language: rus
 title: Об утверждении Правил приема производственных сточных вод в систему водоотведения города Астаны
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '151000000001'
 approval_date: 2003-08-14
-version_date: 2003-08-14
+version_date: 2005-09-07
 registry_number: '16743'
-source: https://zan.gov.kz/client/#!/doc/16743/rus/14.08.2003
+source: https://zan.gov.kz/client/#!/doc/16743/rus
 ---
 
 # Об утверждении Правил приема производственных сточных вод в систему водоотведения города Астаны
