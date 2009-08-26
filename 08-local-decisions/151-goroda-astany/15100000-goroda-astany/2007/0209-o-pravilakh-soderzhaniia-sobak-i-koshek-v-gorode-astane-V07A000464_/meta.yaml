@@ -33,7 +33,10 @@ versions:
 - date: 2009-06-28
   languages:
   - rus
+- date: 2009-08-26
+  languages:
+  - kaz
 version_date:
-  rus: 2009-06-28
+  kaz: 2009-08-26
 source:
-  rus: https://zan.gov.kz/client/#!/doc/32329/rus/28.06.2009
+  kaz: https://zan.gov.kz/client/#!/doc/32329/kaz/26.08.2009
