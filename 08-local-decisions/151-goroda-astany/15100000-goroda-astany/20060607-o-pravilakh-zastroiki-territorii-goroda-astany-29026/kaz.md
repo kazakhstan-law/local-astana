@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/29026/kaz/26.08.2009
+source: https://zan.gov.kz/client/#!/doc/29026/kaz/06.11.2009
 ---
 
 # Астана қаласының аумағында құрылыс салу Қағидалары туралы
