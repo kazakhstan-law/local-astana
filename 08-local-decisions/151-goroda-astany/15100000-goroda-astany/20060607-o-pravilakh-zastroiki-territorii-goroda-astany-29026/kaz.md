@@ -1,5 +1,5 @@
 ---
-version_id: AI29026_10
+version_id: AI29026_12
 act_code: '29026'
 language: kaz
 title: Астана қаласының аумағында құрылыс салу Қағидалары туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '151000000002'
 approval_date: 2006-06-07
-version_date: 2009-08-26
+version_date: 2009-11-06
 registry_number: '29026'
 caused_by:
-  code: '47992'
-  title: Астана қаласы мәслихатының кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/47992/kaz
-source: https://zan.gov.kz/client/#!/doc/29026/kaz/26.08.2009
+  code: '49381'
+  title: Астана қаласы мәслихатының 2006 жылғы 7 маусымдағы N 252/32-ІІІ "Астана қаласының аумағында құрылыс салу Қағидалары туралы" шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/49381/kaz
+source: https://zan.gov.kz/client/#!/doc/29026/kaz/06.11.2009
 ---
 
 # Астана қаласының аумағында құрылыс салу Қағидалары туралы
