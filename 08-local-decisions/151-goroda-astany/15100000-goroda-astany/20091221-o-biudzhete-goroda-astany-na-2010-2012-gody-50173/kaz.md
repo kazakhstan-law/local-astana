@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50173/kaz/21.04.2010
+source: https://zan.gov.kz/client/#!/doc/50173/kaz/05.05.2010
 ---
 
 # Астана қаласының 2010-2012 жылдарға арналған бюджет туралы
