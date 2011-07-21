@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58329/rus/03.03.2011
+source: https://zan.gov.kz/client/#!/doc/58329/rus/21.07.2011
 ---
 
 # О Правилах застройки территории города Астаны
