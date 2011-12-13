@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56620/rus/18.11.2011
+source: https://zan.gov.kz/client/#!/doc/56620/rus/13.12.2011
 ---
 
 ## Бюджет города Астаны на 2012 год

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56620/kaz/18.11.2011
+source: https://zan.gov.kz/client/#!/doc/56620/kaz/13.12.2011
 ---
 
 ## Астана қаласының 2012 жылға арналған бюджеті
