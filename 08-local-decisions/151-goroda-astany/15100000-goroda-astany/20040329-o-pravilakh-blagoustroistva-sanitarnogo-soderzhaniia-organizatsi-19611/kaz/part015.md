@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/19611/kaz/29.06.2011
+source: https://zan.gov.kz/client/#!/doc/19611/kaz/06.12.2012
 ---
 
 ## 9. Құрылыс алаңдары мен учаскелерді күтіп ұстау
