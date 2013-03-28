@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/70028/kaz/06.12.2012
+source: https://zan.gov.kz/client/#!/doc/70028/kaz/28.03.2013
 ---
 
 ## Астана қаласының 2013 жылға арналған бюджеті
@@ -8,10 +8,7 @@ source: https://zan.gov.kz/client/#!/doc/70028/kaz/06.12.2012
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="4">Сомасы мың тенге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -26,53 +23,46 @@ source: https://zan.gov.kz/client/#!/doc/70028/kaz/06.12.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>237 954 458</td>
+<td>239 004 458</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>99 205 978</td>
+<td>100 255 978</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>44 499 475</td>
+<td>44 356 745</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>44 499 475</td>
+<td>44 356 745</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td></td>
 <td>Әлеуметтiк салық</td>
-<td>34 384 710</td>
+<td>35 577 440</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Әлеуметтік салық</td>
-<td>34 384 710</td>
+<td>35 577 440</td>
 </tr>
 <tr>
 <td></td>
