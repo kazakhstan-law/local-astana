@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76544/rus/13.12.2013
+source: https://zan.gov.kz/client/#!/doc/76544/rus/09.04.2014
 ---
 
 ## Бюджет города Астаны на 2015 год
