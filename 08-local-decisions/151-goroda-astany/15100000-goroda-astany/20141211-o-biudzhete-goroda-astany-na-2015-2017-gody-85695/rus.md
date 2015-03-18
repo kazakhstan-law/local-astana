@@ -1,5 +1,5 @@
 ---
-version_id: '85695_9343'
+version_id: '85695_131388'
 act_code: '85695'
 language: rus
 title: О бюджете города Астаны на 2015-2017 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '151000000002'
 approval_date: 2014-12-11
-version_date: 2014-12-11
+version_date: 2015-03-18
 registry_number: '85695'
-source: https://zan.gov.kz/client/#!/doc/85695/rus/11.12.2014
+caused_by:
+  code: '89320'
+  title: О внесении изменений в некоторые решения маслихата города Астаны
+  link: https://zan.gov.kz/client/#!/doc/89320/rus
+source: https://zan.gov.kz/client/#!/doc/85695/rus/18.03.2015
 ---
 
 # О бюджете города Астаны на 2015-2017 годы
