@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85695/rus/11.12.2014
+source: https://zan.gov.kz/client/#!/doc/85695/rus/18.03.2015
 ---
 
 # О бюджете города Астаны на 2015-2017 годы

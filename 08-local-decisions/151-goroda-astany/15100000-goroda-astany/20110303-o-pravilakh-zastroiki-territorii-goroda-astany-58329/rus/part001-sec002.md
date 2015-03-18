@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58329/rus/24.02.2015
+source: https://zan.gov.kz/client/#!/doc/58329/rus/18.03.2015
 ---
 
 ## Раздел 2. Регулирование застройки территории города Астаны

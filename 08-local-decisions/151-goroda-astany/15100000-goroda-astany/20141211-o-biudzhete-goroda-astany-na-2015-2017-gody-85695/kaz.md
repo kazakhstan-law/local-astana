@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85695/kaz/11.12.2014
+source: https://zan.gov.kz/client/#!/doc/85695/kaz/18.03.2015
 ---
 
 # Астана қаласының 2015-2017 жылдарға арналған бюджеті туралы

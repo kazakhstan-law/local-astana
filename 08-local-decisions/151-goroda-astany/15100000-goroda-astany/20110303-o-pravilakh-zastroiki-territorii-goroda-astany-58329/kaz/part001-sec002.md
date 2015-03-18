@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58329/kaz/24.02.2015
+source: https://zan.gov.kz/client/#!/doc/58329/kaz/18.03.2015
 ---
 
 ## 2-бөлім. Астана қаласының аумағында құрылыс салуды реттеу
