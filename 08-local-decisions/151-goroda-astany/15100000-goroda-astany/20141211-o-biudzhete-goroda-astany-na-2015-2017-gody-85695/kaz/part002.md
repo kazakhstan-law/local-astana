@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85695/kaz/16.10.2015
+source: https://zan.gov.kz/client/#!/doc/85695/kaz/04.12.2015
 ---
 
 > *Астана қаласы мәслихатының*  
