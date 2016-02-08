@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/79465/rus/26.10.2015
+source: https://zan.gov.kz/client/#!/doc/79465/rus/08.02.2016
 ---
 
 # О границах избирательных участков по городу Астане
