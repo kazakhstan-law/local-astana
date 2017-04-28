@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/79465/kaz/08.02.2016
+source: https://zan.gov.kz/client/#!/doc/79465/kaz/28.04.2017
 ---
 
 # Астана қаласы бойынша сайлау учаскелерінің шекаралары туралы
