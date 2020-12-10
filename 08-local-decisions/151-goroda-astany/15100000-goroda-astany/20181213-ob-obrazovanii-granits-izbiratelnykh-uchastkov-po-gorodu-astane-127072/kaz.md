@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127072/kaz/05.11.2020
+source: https://zan.gov.kz/client/#!/doc/127072/kaz/10.12.2020
 ---
 
 # Нұр-Сұлтан қаласы бойынша сайлау учаскелерінің шекаралары туралы

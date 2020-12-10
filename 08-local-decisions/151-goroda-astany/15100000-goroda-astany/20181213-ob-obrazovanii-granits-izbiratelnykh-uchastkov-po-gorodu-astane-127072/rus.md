@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127072/rus/05.11.2020
+source: https://zan.gov.kz/client/#!/doc/127072/rus/10.12.2020
 ---
 
 # О границах избирательных участков по городу Нур-Султан
