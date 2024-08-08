@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/190524/kaz/26.03.2024
+source: https://zan.gov.kz/client/#!/doc/190524/kaz/08.08.2024
 ---
 
 # Астана қаласы бойынша сайлау учаскелерін құру туралы
