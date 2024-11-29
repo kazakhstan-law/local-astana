@@ -10,15 +10,15 @@ approved_on: 2023-12-14
 approved_by:
 - '151000000002'
 version_date:
-  kaz: 2024-10-02
-  rus: 2024-10-02
+  kaz: 2024-11-29
+  rus: 2024-11-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/191484/kaz/02.10.2024
-  rus: https://zan.gov.kz/client/#!/doc/191484/rus/02.10.2024
+  kaz: https://zan.gov.kz/client/#!/doc/191484/kaz/29.11.2024
+  rus: https://zan.gov.kz/client/#!/doc/191484/rus/29.11.2024
 caused_by:
-  code: '201929'
-  requisite: Решение маслихата города Астаны от 2 октября 2024 года № 227/28-VIII
+  code: '203925'
+  requisite: Решение маслихата города Астаны от 29 ноября 2024 года № 241/31-VIII
   title:
     rus: О внесении изменений в решение маслихата города Астаны от 14 декабря 2023 года № 113/15-VIII «О бюджете города Астаны на 2024-2026 годы»
     kaz: «Астана қаласының 2024-2026 жылдарға арналған бюджеті туралы» Астана қаласы мәслихатының 2023 жылғы 14 желтоқсандағы № 113/15-VIII шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/201929/rus
+  link: https://zan.gov.kz/client/#!/doc/203925/rus
