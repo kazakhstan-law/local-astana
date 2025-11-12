@@ -1,0 +1,26 @@
+key: G25AAZ3394M
+akn: /akn/kz/act/2025-11-12/G25AAZ3394M
+act_code: '217031'
+requisite: Решение маслихата города Астаны от 12 ноября 2025 года № 339/45-VIII
+title:
+  rus: Об утверждении Правил общего водопользования в городе Астане
+  kaz: Астана қаласында ортақ су пайдалану қағидаларын бекіту туралы
+form: РЕШ
+type_codes:
+- ПРАВ
+- РЕШ
+approved_on: 2025-11-12
+in_force_from: 2025-11-30
+approved_by:
+- '151000000002'
+versions:
+- date: 2025-11-12
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-11-12
+  rus: 2025-11-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/217031/kaz/12.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/217031/rus/12.11.2025
