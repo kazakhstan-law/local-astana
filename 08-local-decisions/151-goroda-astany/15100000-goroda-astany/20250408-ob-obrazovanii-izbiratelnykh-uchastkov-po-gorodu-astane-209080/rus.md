@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/209080/rus/08.04.2025
+source: https://zan.gov.kz/client/#!/doc/209080/rus/30.01.2026
 ---
 
 # Об образовании избирательных участков по городу Астане
